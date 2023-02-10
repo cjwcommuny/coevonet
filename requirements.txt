@@ -1,0 +1,17 @@
+git+https://github.com/cjwcommuny/array_contract.git@40032ab5d2672384f5efc5589d34cc2ce89fac02#egg=arraycontract
+git+https://github.com/cjwcommuny/torch-tools.git@380ba27e910c8d1416d876182bbd1471c0d360c6#egg=torchtools-cjwcommuny
+git+https://github.com/cjwcommuny/pybetter.git@b30521be072ce9fddd2c3da581310e47aacb0d36#egg=pybetter
+git+https://github.com/cjwcommuny/datascience.git@c8438f3e3ba7cdf229ee23213cd17d187de73775#egg=datascience-cjwcommuny
+git+https://github.com/cjwcommuny/functionalstream.git@b0c1c0d53ca9dc5e17fe9f9561ffd4eac32cc8f4
+
+cached_property
+pytorch-lightning
+numpy
+opencv-contrib-python-headless
+pathos
+transformers
+gitpython
+seaborn
+detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
+matplotlib
+pandas
